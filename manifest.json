@@ -1,8 +1,8 @@
 {
-    "name": "TabCrusher",
+    "name": "TabNoYatsu",
     "version": "1.0",
     "manifest_version": 2,
-    "description": "Crush your tabs",
+    "description": "Too smily, to work",
     "permissions": [
         "tabs",
         "contextMenus",
